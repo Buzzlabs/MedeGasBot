@@ -12,3 +12,14 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+
+
+/target
+profiles.clj
+/.prepl-port
+.hgignore
+.hg/
+.calva
+.lsp
+.clj-kondo
+resources/voice
